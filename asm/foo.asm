@@ -1,7 +1,4 @@
 
-
-
-	
 	.area RSEG (ABS,DATA)
 	.org 0x0030
 
