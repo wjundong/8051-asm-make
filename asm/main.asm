@@ -9,6 +9,7 @@
     .globl start
     .globl P1_3
     .globl P1_2
+    
     .area RSEG (ABS,DATA)
     .org 0x0000
     P1_3 = 0x0093
